@@ -1,0 +1,9 @@
+{
+  "name": "NiallGPT",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "prompt": ""
+}
